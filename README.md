@@ -1,7 +1,7 @@
 # ⚡ Electricity Load Forecasting with XGBoost
 
 Accurate electricity demand forecasting is critical for power system planning and operations.
-This project implements an **end-to-end time series forecasting pipeline** to predict **hourly total electricity demand** using historical consumption data and machine learning.
+This project implements an **end-to-end time series forecasting pipeline** to predict **aggregated total electricity demand** using historical consumption data and machine learning.
 
 The solution combines **feature engineering**, **baseline modeling**, and an **XGBoost regressor**, achieving **over 94% error reduction** compared to a naive baseline.
 
